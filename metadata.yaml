@@ -1,0 +1,35 @@
+_repo: John-Marchmont-s-Legacy-Volume-III--of-3-_34541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - White, Babington
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary Elizabeth
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Lincolnshire (England) -- Fiction'
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Women intellectuals -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: John Marchmont's Legacy, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/34541
